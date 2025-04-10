@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slametalbarkah.github.io/information/sitemap.xml
